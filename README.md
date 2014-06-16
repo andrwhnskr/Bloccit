@@ -9,6 +9,10 @@ application up and running.
 
 Things you may want to cover:
 
+* Setup
+
+config/application.yml 
+
 * Ruby version
 
 * System dependencies
