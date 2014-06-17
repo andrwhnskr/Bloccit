@@ -51,5 +51,6 @@ gem 'spring',        group: :development
 gem 'faker'
 gem 'devise'
 gem 'figaro'
+gem 'pundit'
 
 
